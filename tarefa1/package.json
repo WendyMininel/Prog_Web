@@ -1,0 +1,17 @@
+{
+  "name": "formulario-node",
+  "version": "1.0.0",
+  "description": "Formulário de cadastro com Node.js e Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {}
+}
