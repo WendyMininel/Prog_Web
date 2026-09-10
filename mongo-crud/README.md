@@ -4,6 +4,10 @@ Projeto de um sistema CRUD (Create, Read, Update e Delete) para gerenciamento de
 
 A aplicação permite cadastrar, visualizar, editar e excluir produtos, além de mostrar informações como preço, descrição e quantidade disponível em estoque.
 
+<img width="1920" height="921" alt="image" src="https://github.com/user-attachments/assets/e955cb97-4a2e-4116-bb0d-a3d2fdb63297" />
+
+
+
 ## Funcionalidades
 
 * Cadastro de produtos
